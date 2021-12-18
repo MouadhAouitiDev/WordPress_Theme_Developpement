@@ -13,4 +13,8 @@
 
 <p>Hello WordPress theme </p>
 
-    </html>
+<body>
+<header>This is my Header</header>
+<footer>This is my footer</footer>
+</body>
+</html>
