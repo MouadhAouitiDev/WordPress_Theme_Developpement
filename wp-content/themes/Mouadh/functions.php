@@ -3,6 +3,6 @@
  *
  * Theme Functions
  *
- * @package MyTheme
+ * @package Mouadh
  *
  */

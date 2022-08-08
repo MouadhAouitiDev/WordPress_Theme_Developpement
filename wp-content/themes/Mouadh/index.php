@@ -15,6 +15,6 @@
 
 <body>
 <header>This is my Header</header>
-<footer>This is my footer</footer>
+<footer>This is my footer</footer> 
 </body>
 </html>
