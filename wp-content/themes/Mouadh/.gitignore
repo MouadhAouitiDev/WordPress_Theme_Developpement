@@ -5,28 +5,21 @@
 #
 # Note: if you want to stage/commit WP core files
 # you can delete this whole section/until Configuration.
-!wp-content/themes/Mouadh/
-/wp-content/plugins
-index.php
+
 /wp-admin/
-/wp-content/index.php 
-/wp-content/languages  
-/wp-content/plugins/index.php 
-/wp-content/themes/index.php
+/wp-content/languages
 /wp-includes/
 /license.txt
 /readme.html
 /wp-*.php
 /xmlrpc.php
 
-# Configuration
+# Configuration 
 wp-config.php
 
 # Example themes
-/wp-content/themes/twenty*/
 
 # Example plugin
-/wp-content/plugins/hello.php
 
 # Uploads
 /wp-content/uploads/
@@ -41,7 +34,7 @@ wp-config.php
 #
 # Note: If you wish to whitelist plugins,
 # uncomment the next line
-#/wp-content/plugins
+/wp-content/plugins
 
 # All themes
 #
