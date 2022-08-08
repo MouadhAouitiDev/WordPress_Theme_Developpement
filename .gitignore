@@ -6,7 +6,9 @@
 # Note: if you want to stage/commit WP core files
 # you can delete this whole section/until Configuration.
 !Mouadh/*
-/wp-content/plugins
+/wp-content/plugins 
+/wp-content/themes 
+
 /index.php
 /wp-admin/
 /wp-content/index.php 
@@ -20,7 +22,7 @@
 /xmlrpc.php
 
 # Configuration
-wp-config.php
+../wp-config.php
 
 # Example themes
 /wp-content/themes/twenty*/
