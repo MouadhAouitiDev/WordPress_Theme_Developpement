@@ -3,6 +3,8 @@
  *
  * Theme Functions
  *
- * @package Mouadh
+ * @package Mouadh 
  *
  */
+
+ add_theme_support('title-tag');

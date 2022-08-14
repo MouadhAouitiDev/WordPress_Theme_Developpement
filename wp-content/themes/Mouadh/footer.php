@@ -6,5 +6,7 @@
  *
  *
  * @package Mouadh
- */     
+ */      
 ?>  
+
+<?php wp_footer(); ?>
